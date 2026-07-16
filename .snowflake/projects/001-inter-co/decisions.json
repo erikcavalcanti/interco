@@ -2,94 +2,85 @@
   "levelParam": "page",
   "conversionLevel": "page-level",
   "complexityGate": "warned",
-  "sectionCount": 9,
-  "slottableElementCount": 13,
+  "sectionCount": 8,
+  "slottableElementCount": 12,
   "templateName": "inter-co",
   "synthesizeMain": false,
   "sections": [
     {
       "index": 1,
-      "firstClass": "sc-1nsik35-0",
+      "firstClass": "sf-sec1",
       "originalTag": "section",
       "rewriteToSection": false,
       "slots": [
-        "sec1-title"
+        "title"
       ]
     },
     {
       "index": 2,
-      "firstClass": "sc-zjaqwu-0",
+      "firstClass": "sf-sec2",
       "originalTag": "section",
       "rewriteToSection": false,
       "slots": [
-        "sec2-title"
+        "title"
       ]
     },
     {
       "index": 3,
-      "firstClass": "sc-64lb90-0",
+      "firstClass": "sf-sec3",
       "originalTag": "section",
       "rewriteToSection": false,
       "slots": [
-        "sec3-title"
+        "title",
+        "cta"
       ]
     },
     {
       "index": 4,
-      "firstClass": "sc-17ky1jy-0",
+      "firstClass": "sf-sec4",
       "originalTag": "section",
       "rewriteToSection": false,
       "slots": [
-        "sec4-title",
-        "sec4-cta"
+        "title"
       ]
     },
     {
       "index": 5,
-      "firstClass": "sc-adzyp0-0",
+      "firstClass": "sf-sec5",
       "originalTag": "section",
       "rewriteToSection": false,
       "slots": [
-        "sec5-title"
+        "title",
+        "cta"
       ]
     },
     {
       "index": 6,
-      "firstClass": "sc-d72sba-0",
+      "firstClass": "sf-sec6",
       "originalTag": "section",
       "rewriteToSection": false,
       "slots": [
-        "sec6-title",
-        "sec6-cta"
+        "title",
+        "cta"
       ]
     },
     {
       "index": 7,
-      "firstClass": "sc-1fgypj5-0",
+      "firstClass": "sf-sec7",
       "originalTag": "section",
       "rewriteToSection": false,
       "slots": [
-        "sec7-title",
-        "sec7-cta"
+        "title",
+        "cta"
       ]
     },
     {
       "index": 8,
-      "firstClass": "sc-six9zt-0",
+      "firstClass": "sf-sec8",
       "originalTag": "section",
       "rewriteToSection": false,
       "slots": [
-        "sec8-title",
-        "sec8-cta"
-      ]
-    },
-    {
-      "index": 9,
-      "firstClass": "wearables-the-future-of-payments",
-      "originalTag": "section",
-      "rewriteToSection": false,
-      "slots": [
-        "sec9-title"
+        "title"
       ]
     }
   ],
