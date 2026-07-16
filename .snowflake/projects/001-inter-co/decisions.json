@@ -1,0 +1,133 @@
+{
+  "levelParam": "page",
+  "conversionLevel": "page-level",
+  "complexityGate": "warned",
+  "sectionCount": 9,
+  "slottableElementCount": 13,
+  "templateName": "inter-co",
+  "synthesizeMain": false,
+  "sections": [
+    {
+      "index": 1,
+      "firstClass": "sc-1nsik35-0",
+      "originalTag": "section",
+      "rewriteToSection": false,
+      "slots": [
+        "sec1-title"
+      ]
+    },
+    {
+      "index": 2,
+      "firstClass": "sc-zjaqwu-0",
+      "originalTag": "section",
+      "rewriteToSection": false,
+      "slots": [
+        "sec2-title"
+      ]
+    },
+    {
+      "index": 3,
+      "firstClass": "sc-64lb90-0",
+      "originalTag": "section",
+      "rewriteToSection": false,
+      "slots": [
+        "sec3-title"
+      ]
+    },
+    {
+      "index": 4,
+      "firstClass": "sc-17ky1jy-0",
+      "originalTag": "section",
+      "rewriteToSection": false,
+      "slots": [
+        "sec4-title",
+        "sec4-cta"
+      ]
+    },
+    {
+      "index": 5,
+      "firstClass": "sc-adzyp0-0",
+      "originalTag": "section",
+      "rewriteToSection": false,
+      "slots": [
+        "sec5-title"
+      ]
+    },
+    {
+      "index": 6,
+      "firstClass": "sc-d72sba-0",
+      "originalTag": "section",
+      "rewriteToSection": false,
+      "slots": [
+        "sec6-title",
+        "sec6-cta"
+      ]
+    },
+    {
+      "index": 7,
+      "firstClass": "sc-1fgypj5-0",
+      "originalTag": "section",
+      "rewriteToSection": false,
+      "slots": [
+        "sec7-title",
+        "sec7-cta"
+      ]
+    },
+    {
+      "index": 8,
+      "firstClass": "sc-six9zt-0",
+      "originalTag": "section",
+      "rewriteToSection": false,
+      "slots": [
+        "sec8-title",
+        "sec8-cta"
+      ]
+    },
+    {
+      "index": 9,
+      "firstClass": "wearables-the-future-of-payments",
+      "originalTag": "section",
+      "rewriteToSection": false,
+      "slots": [
+        "sec9-title"
+      ]
+    }
+  ],
+  "headLinks": [
+    {
+      "rel": "preconnect",
+      "href": "https://fonts.googleapis.com"
+    },
+    {
+      "rel": "preconnect",
+      "href": "https://fonts.gstatic.com",
+      "crossorigin": "anonymous"
+    },
+    {
+      "rel": "preconnect",
+      "href": "https://cdn.bancointer.com.br"
+    },
+    {
+      "rel": "stylesheet",
+      "href": "https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap"
+    },
+    {
+      "rel": "stylesheet",
+      "href": "https://fonts.googleapis.com/css2?family=Sora:wght@300;400;500;600;700;800&display=swap"
+    },
+    {
+      "rel": "stylesheet",
+      "href": "https://cdn.bancointer.com.br/inter-assets/latest/css/citrina.css"
+    },
+    {
+      "rel": "stylesheet",
+      "href": "https://cdn.bancointer.com.br/inter-ui/4.x/latest/inter-ui.css"
+    }
+  ],
+  "assetStrategy": "absolute",
+  "assetBase": "https://www.inter.co/",
+  "feasibility": {
+    "recommendation": "page-level",
+    "note": "production Gatsby page; CSS external+absolute -> high fidelity overlay; JS is tracking-only (skipped)"
+  }
+}
