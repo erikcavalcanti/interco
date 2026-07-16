@@ -16,8 +16,8 @@
   --light-color: #f8f8f8;
   --dark-color: #505050;
   --text-color: #131313;
-  --link-color: #3b63fb;
-  --link-hover-color: #1d3ecf;
+  --link-color: #ea7100;
+  --link-hover-color: #c85f00;
 
   /* fonts */
   --body-font-family: roboto, roboto-fallback, sans-serif;
@@ -189,6 +189,8 @@ button.button {
   overflow: hidden;
   text-overflow: ellipsis;
   white-space: nowrap;
+  background-color: var(--link-color);
+  color: var(--background-color);
 }
 
 a.button[aria-disabled="true"],
